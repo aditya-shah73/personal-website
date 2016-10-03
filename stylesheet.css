@@ -7,3 +7,9 @@ body{
 #img-workex{
 	padding-top: 4em;
 }
+.navbar-inverse .navbar-brand{
+	color: #a9a6a6;
+}
+.navbar-inverse .navbar-nav>li>a{
+	color: #a9a6a6;
+}
